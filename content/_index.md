@@ -110,27 +110,53 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Ph.D Fellow
+          company: IT University of Copenhagen
+          company_url: 'https://en.itu.dk/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Copenhagen, Denmark
+          date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Research topics include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * TinyML
+              * Resource management
+              * Task colocation
+              * Hardware accelerators
+              * Performance analysis
+        - title: Research Assistant
+          company: IT University of Copenhagen
+          company_url: 'https://en.itu.dk'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Copenhagen, Denmark
+          date_start: '2022-01-01'
+          date_end: '2023-07-31'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Senior Software Engineer
+          company: GlycoSpot
+          company_url: 'https://glycospot.dk'
+          company_logo: org-x
+          location: Copenhagen, Denmark
+          date_start: '2020-01-01'
+          date_end: '2021-12-31'
+          description: Developed a custom portable spectrophotometer, used for in-field enzyme activity screening. This method resulted in two patents.
+        - title: Software Engineer
+          company: GlycoSpot
+          company_url: 'https://glycospot.dk'
+          company_logo: org-x
+          location: Copenhagen, Denmark
+          date_start: '2017-10-01'
+          date_end: '2019-12-31'
+          # description: Developed a custom portable spectrophotometer, used for in-field enzyme activity screening. This method resulted in two patents.
+        - title: Full-stack Web Developer
+          company: .upvision
+          company_url: 'https://www.upvision.digital/'
+          company_logo: org-x
+          location: Senica, Slovakia
+          date_start: '2016-11-01'
+          date_end: '2017-06-31'
+          # description: Developed a custom portable spectrophotometer, used for in-field enzyme activity screening. This method resulted in two patents.
     design:
       columns: '2'
   # - block: collection
