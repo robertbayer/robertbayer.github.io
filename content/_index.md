@@ -65,6 +65,38 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: accomplishments
+    id: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_start: '2023-11-03'
+          description: 'I have won the annual award for the best computer science masters thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
+          icon: hero:book-open
+          organization: IDA and Dansk Industri
+          title: Best Computer Science Masters Thesis in Denmark in 2023
+          url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
+    design:
+      columns: '2'
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: experience
     id: experience
     content:
@@ -101,37 +133,6 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - date_start: '2023-11-03'
-          description: 'I have won the annual award for the best computer science masters thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
-          icon: hero:book-open
-          organization: IDA and Dansk Industri
-          title: Best Computer Science Masters Thesis in Denmark in 2023
-          url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
-    design:
-      columns: '2'
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   # - block: collection
   #   id: posts
   #   content:

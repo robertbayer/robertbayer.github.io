@@ -16,16 +16,20 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  - name: Work Experience
-    url: '#experience'
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
+  - name: Work Experience
+    url: '#experience'
+    weight: 50
+  
   
   - name: CV
     url: uploads/resume.pdf
-    weight: 50
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
