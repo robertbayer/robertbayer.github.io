@@ -155,7 +155,7 @@ sections:
           company_logo: org-x
           location: Senica, Slovakia
           date_start: '2016-11-01'
-          date_end: '2017-06-31'
+          date_end: '2017-06-30'
           # description: Developed a custom portable spectrophotometer, used for in-field enzyme activity screening. This method resulted in two patents.
     design:
       columns: '2'
