@@ -98,14 +98,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        # - certificate_url: https://www.coursera.org
+        #   date_start: '2023-11-03'
+        #   description: 'I have won the annual award for the best computer science master\'s thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
+        #   icon: hero:book-open
+        #   organization: IDA and Dansk Industri
+        #   organization_url: https://www.coursera.org
+        #   title: Best Computer Science Master\'s Thesis in Denmark in 2023
+        #   url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
         - certificate_url: https://www.coursera.org
-          date_start: '2023-11-03'
-          description: 'I have won the annual award for the best computer science master\'s thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
-          icon: book-open
-          organization: IDA and Dansk Industri
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          icon: coursera
+          organization: Coursera
           organization_url: https://www.coursera.org
-          title: Best Computer Science Master\'s Thesis in Denmark in 2023
-          url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
+          title: Neural Networks and Deep Learning
+          url: ''
     design:
       columns: '2'
   # - block: collection
