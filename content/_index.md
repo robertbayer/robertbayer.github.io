@@ -98,7 +98,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_start: '2023-11-03'
+        - certificate_url: https://www.coursera.org
+          date_start: '2023-11-03'
           description: 'I have won the annual award for the best computer science master\'s thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
           icon: book-open
           organization: IDA and Dansk Industri
