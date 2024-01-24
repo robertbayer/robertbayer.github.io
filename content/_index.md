@@ -113,7 +113,7 @@ sections:
         - title: Ph.D Fellow
           company: IT University of Copenhagen
           company_url: 'https://en.itu.dk/'
-          company_logo: org-gc
+          #company_logo: org-gc
           location: Copenhagen, Denmark
           date_start: '2023-08-01'
           date_end: ''
@@ -128,7 +128,7 @@ sections:
         - title: Research Assistant
           company: IT University of Copenhagen
           company_url: 'https://en.itu.dk'
-          company_logo: org-x
+          #company_logo: org-x
           location: Copenhagen, Denmark
           date_start: '2022-01-01'
           date_end: '2023-07-31'
@@ -136,7 +136,7 @@ sections:
         - title: Senior Software Engineer
           company: GlycoSpot
           company_url: 'https://glycospot.dk'
-          company_logo: org-x
+          #company_logo: org-x
           location: Copenhagen, Denmark
           date_start: '2020-01-01'
           date_end: '2021-12-31'
@@ -144,7 +144,7 @@ sections:
         - title: Software Engineer
           company: GlycoSpot
           company_url: 'https://glycospot.dk'
-          company_logo: org-x
+          #company_logo: org-x
           location: Copenhagen, Denmark
           date_start: '2017-10-01'
           date_end: '2019-12-31'
@@ -152,7 +152,7 @@ sections:
         - title: Full-stack Web Developer
           company: .upvision
           company_url: 'https://www.upvision.digital/'
-          company_logo: org-x
+          #company_logo: org-x
           location: Senica, Slovakia
           date_start: '2016-11-01'
           date_end: '2017-06-30'
