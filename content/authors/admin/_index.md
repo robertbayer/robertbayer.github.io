@@ -38,13 +38,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: IT University of Copenhagen
-      year: 2023-present
+      year: 2023 - present
     - course: MSc. in Computer Science
       institution: IT University of Copenhagen
-      year: 2021-2023
+      year: 2021 - 2023
     - course: BSc. in Data Science
       institution: IT University of Copenhagen
-      year: 2018-2021
+      year: 2018 - 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
