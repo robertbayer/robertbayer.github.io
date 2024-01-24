@@ -3,7 +3,7 @@
 title: Robert Bayer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Robert
@@ -120,5 +120,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello,
+
+My name is Robert Bayer and I am a Ph.D. student in the Resource-Aware Data Systems (RAD) group at the IT University of Copenhagen, Denmark.
+My research focuses on unlocking power of machine learning on small, resource-constrained hardware. Specifically I focus on challenges in resource management, task colocation and performance analysis.
 {style="text-align: justify;"}
