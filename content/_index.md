@@ -50,7 +50,23 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -106,9 +122,7 @@ sections:
         #   organization_url: https://www.coursera.org
         #   title: Best Computer Science Master\'s Thesis in Denmark in 2023
         #   url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - date_start: '2021-01-25'
           description: ''
           icon: coursera
           organization: Coursera
@@ -117,6 +131,16 @@ sections:
           url: ''
     design:
       columns: '2'
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   # - block: collection
   #   id: posts
   #   content:
@@ -190,30 +214,6 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    content:
-      title: Publications
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
