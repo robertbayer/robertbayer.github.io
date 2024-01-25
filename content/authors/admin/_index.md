@@ -124,4 +124,8 @@ Hello,
 
 My name is Robert Bayer and I am a Ph.D. student in the Resource-Aware Data Systems (RAD) group at the IT University of Copenhagen, Denmark.
 My research focuses on unlocking power of machine learning on small, resource-constrained hardware. Specifically I focus on challenges in resource management, task colocation and performance analysis.
+
+My name is Robert Bayer and I am a Ph.D. student in the Resource-Aware Data Systems (RAD) group at the IT University of Copenhagen, Denmark.
+My research focuses on unlocking power of machine learning on small, resource-constrained hardware. Specifically I focus on challenges in resource management, task colocation and performance analysis.
+
 {style="text-align: justify;"}
