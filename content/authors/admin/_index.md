@@ -31,7 +31,7 @@ bio: My research interests include resource-constrained machine learning, edge c
 interests:
   - TinyML
   - Space IoT
-  - Edge
+  - Edge computing
 
 # Education to show in About widget
 education:
