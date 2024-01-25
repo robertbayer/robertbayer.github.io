@@ -142,14 +142,31 @@ sections:
     content:
       title: Teaching & Supervision
       text: |2-
-          ## Master theses
-          * list of theses
-          ## Research projects
-          * list of projects
-          ## Bachelor theses
-          * list of theses
-          ## Courses
-          * list of courses
+          ## Teaching
+          ### Internet of Things (Spring 2024)
+          * Embedded systems and programming
+          * Data analytics: ML basics
+          * Edge computing & TinyML
+          ### CubeSats 101 (Summer 2023)
+          * CubeSat hardware architecture
+          * CubeSat programming
+          
+          ## Supervision
+          ### Master theses
+          
+          ### Research projects
+          * **Empowering Earth Observation Research: A Modular Image Processing Pipeline for CubeSats**, Fall 2023
+
+            Students: Nikolaj Sørensen, Jeppe Lindhard and Daniel Kjellberg
+  
+            Co-supervised with Julian Priest
+          * **Simulation of CubeSat Task Scheduling Strategies for Earth Observation**, Fall 2023
+            
+            Students: Nicolaj Valsted
+
+            Co-supervised with Julian Priest
+          ### Bachelor theses
+
     design:
       columns: '2'
 
