@@ -1,5 +1,5 @@
 ---
-title: Image analysis in Space
+title: Image Analysis in Space
 
 event: Machine Learning in Space - educational and research activities in the context of the Danish Partnership for Space Education
 event_url: https://dasya.itu.dk/posts/spacemlevent/
