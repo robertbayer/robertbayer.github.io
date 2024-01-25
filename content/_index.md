@@ -50,6 +50,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
+
   - block: collection
     id: publications
     content:
@@ -65,6 +66,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -75,6 +77,7 @@ sections:
     design:
       columns: '2'
       view: compact
+
   - block: experience
     id: experience
     content:
@@ -137,12 +140,13 @@ sections:
           # description: Developed a custom portable spectrophotometer, used for in-field enzyme activity screening. This method resulted in two patents.
     design:
       columns: '2'
+
   - block: markdown
     id: teaching
     content:
       title: Teaching & Supervision
       text: |2-
-          ## Teaching
+          ## **Teaching**
           ### Internet of Things (Spring 2024)
           * Embedded systems and programming
           * Data analytics: ML basics
@@ -151,8 +155,9 @@ sections:
           * CubeSat hardware architecture
           * CubeSat programming
           
-          ## Supervision
+          ## **Supervision**
           ### Master theses
+          * 
           
           ### Research projects
           * **Empowering Earth Observation Research: A Modular Image Processing Pipeline for CubeSats**, Fall 2023
@@ -165,7 +170,9 @@ sections:
             Students: Nicolaj Valsted
 
             Co-supervised with Julian Priest
+
           ### Bachelor theses
+          * 
 
     design:
       columns: '2'
@@ -192,6 +199,7 @@ sections:
           url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
     design:
       columns: '2'
+
   # - block: collection
   #   id: posts
   #   content:
