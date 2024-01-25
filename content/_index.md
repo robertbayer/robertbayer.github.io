@@ -194,7 +194,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_start: '2023-11-03'
-          description: 'I have won the annual award for the best computer science masters thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
+          description: "I have won the annual award for the best computer science master\'s thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat."
           icon: hero:book-open
           organization: IDA and Dansk Industri
           title: Best Computer Science Master\'s Thesis in Denmark in 2023
