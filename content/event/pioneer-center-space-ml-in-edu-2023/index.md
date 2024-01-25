@@ -13,7 +13,7 @@ location: AI Pioneer Center, Copenhagen, Denmark
 #   country: United States
 
 summary: Talk on the past experiences with image analysis on board of small satellites, and possible integration of this topic into Danish higher education.
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: Talk on the past experiences with image analysis on board of small satellites, and possible integration of this topic into Danish higher education.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
