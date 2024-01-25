@@ -9,10 +9,10 @@ authors:
   - Jon Voigt Tøttrup
   - Pınar Tözün
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2022-09-05T00:00:00Z'
 doi: ''
