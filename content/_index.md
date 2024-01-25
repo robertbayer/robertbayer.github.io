@@ -146,7 +146,7 @@ sections:
     content:
       title: Teaching & Supervision
       text: |2-
-          ## **Teaching**
+          # **Teaching**
           ### Internet of Things (Spring 2024)
           * Embedded systems and programming
           * Data analytics: ML basics
@@ -157,7 +157,7 @@ sections:
           
           ___________________________________
 
-          ## **Supervision**
+          # **Supervision**
           ### Master\'s theses
           * 
           
