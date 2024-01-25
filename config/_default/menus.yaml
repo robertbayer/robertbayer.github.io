@@ -10,6 +10,15 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Talks
+    url: '#talks'
+    weight: 30
+  - name: Work Experience
+    url: '#experience'
+    weight: 40
+  - name: Teaching
+    url: '#teaching'
+    weight: 50
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
@@ -18,18 +27,10 @@ main:
   #   weight: 30
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Work Experience
-    url: '#experience'
-    weight: 50
-  
-  
+    weight: 60
   - name: CV
     url: uploads/resume.pdf
-    weight: 60
+    weight: 70
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
