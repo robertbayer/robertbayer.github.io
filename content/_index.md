@@ -155,6 +155,8 @@ sections:
           * CubeSat hardware architecture
           * CubeSat programming
           
+          ___________________________________
+          
           ## **Supervision**
           ### Master theses
           * 
