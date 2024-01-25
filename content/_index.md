@@ -156,9 +156,9 @@ sections:
           * CubeSat programming
           
           ___________________________________
-          
+
           ## **Supervision**
-          ### Master theses
+          ### Master\'s theses
           * 
           
           ### Research projects
@@ -173,7 +173,7 @@ sections:
 
             Co-supervised with Julian Priest
 
-          ### Bachelor theses
+          ### Bachelor\'s theses
           * 
 
     design:
@@ -197,7 +197,7 @@ sections:
           description: 'I have won the annual award for the best computer science masters thesis in Denmark for my work on evaluation, design and implementation of machine learning-based image processing pipeline deployed on board of the DISCO1 cubesat.'
           icon: hero:book-open
           organization: IDA and Dansk Industri
-          title: Best Computer Science Masters Thesis in Denmark in 2023
+          title: Best Computer Science Master\'s Thesis in Denmark in 2023
           url: 'https://via.ritzau.dk/pressemeddelelse/13741957/raketvidenskab-haedres-med-it-specialepris?publisherId%253D3427042%2526lang%253Dda'
     design:
       columns: '2'
