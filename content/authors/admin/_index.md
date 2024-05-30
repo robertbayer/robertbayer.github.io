@@ -124,7 +124,7 @@ My name is Robert Bayer and I am a Ph.D. student in the [Resource-Aware Data Sys
 My research focuses on unlocking power of machine learning on small, resource-constrained hardware. Specifically I focus on challenges in resource management, task colocation and performance analysis.
 
 Before starting my Ph.D. I worked at the ITU as a research assistant, while working towards my master\'s degree in computer science, which I finished in 2023.
-Bufore starting my master\'s, I got my bachelor\'s degree in data science from the same university in 2021.
-Throughout my studies including currently during Ph.D. I was fortunate to be supervised by [prof. Pınar Tözün](https://www.pinartozun.com/).
+Before starting my master\'s, I got my bachelor\'s degree in data science from the same university in 2021.
+Throughout my studies, including currently during Ph.D., I was fortunate to be supervised by [prof. Pınar Tözün](https://www.pinartozun.com/).
 
 {style="text-align: justify;"}
