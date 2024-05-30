@@ -4,7 +4,7 @@ authors:
 - admin
 - Julian Priest
 - Pınar Tözün
-date: "2023-06-27T00:00:00Z"
+date: "2024-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "In DEEM"
+publication_short: "In DEEM"
 
 abstract: |2-
   Satellites have become more widely available due to the reduction in size and cost of their components. As a result, there has been an advent of smaller organizations having the ability to deploy satellites with a variety of data-intensive applications to run on them. One popular application is image analysis to detect, for example, land, ice, clouds, etc. for Earth observation. However, the resource-constrained nature of the devices deployed in satellites creates additional challenges for this resource-intensive application.

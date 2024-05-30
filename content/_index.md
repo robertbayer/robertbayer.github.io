@@ -159,7 +159,16 @@ sections:
 
           # **Supervision**
           ### Master\'s theses
-          * 
+          * **DIPP - A DISCO-2 Image Processing Pipeline**, Spring 2024
+
+            Students: Nikolaj Sørensen, Jeppe Lindhard and Daniel Kjellberg
+  
+            Co-supervised with Pınar Tözün
+          * **Remotely Programmable Heterogeneous Multi-Processsing Software System Setup in CubeSats**, Spring 2024
+            
+            Students: Nicolaj Valsted
+
+            Co-supervised with Pınar Tözün
           
           ### Research projects
           * **Empowering Earth Observation Research: A Modular Image Processing Pipeline for CubeSats**, Fall 2023
@@ -174,7 +183,10 @@ sections:
             Co-supervised with Julian Priest
 
           ### Bachelor\'s theses
-          * 
+          * **Understanding and Evaluating Data Drift in Computer Vision from Edge Computing Perspective**, Spring 2024
+            
+            Student: Janusz Jakub Wilczek
+            Co-supervised with Pınar Tözün
 
     design:
       columns: '2'
