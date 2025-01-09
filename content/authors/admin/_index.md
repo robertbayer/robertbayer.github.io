@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student 
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -93,13 +93,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:roba@itu.dk'
+    link: "mailto:roba@itu.dk"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/robertbayer_
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user%253DbpWCPPoAAAAJ%2526hl%253Den
