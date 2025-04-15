@@ -17,12 +17,12 @@ abstract: Talk on the past experiences with image analysis on board of small sat
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-29T00:00:00Z'
-date_end: '2023-09-29T15:00:00Z'
+date: "2023-09-29T00:00:00Z"
+#date_end: '2023-09-29T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
 
 # links:

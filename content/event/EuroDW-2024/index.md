@@ -1,5 +1,5 @@
 ---
-title: 'No Resource Left Behind: Machine Learning at the Edge'
+title: "No Resource Left Behind: Machine Learning at the Edge"
 
 event: EuroSys Doctoral Workshop
 # event_url: https://dasya.itu.dk/posts/spacemlevent/
@@ -21,12 +21,12 @@ abstract: |2-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-22T00:00:00Z'
-date_end: '2024-04-22T15:00:00Z'
+date: "2024-04-22T00:00:00Z"
+#date_end: '2024-04-22T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -35,7 +35,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
 
 # links:
